@@ -1,0 +1,337 @@
+{
+    "location": [
+      {
+        "_id": 1,
+        "city_name": "New Delhi",
+        "city": 1,
+        "country_name": "India"
+      },
+      {
+        "_id": 2,
+        "city_name": "Mumbai",
+        "city": 2,
+        "country_name": "India"
+      },
+      {
+        "_id": 3,
+        "city_name": "Pune",
+        "city": 3,
+        "country_name": "India"
+      },
+      {
+        "_id": 4,
+        "city_name": "banglore",
+        "city": 4,
+        "country_name": "India"
+      },
+      {
+        "_id": 5,
+        "city_name": "Ahmedabad",
+        "city": 5,
+        "country_name": "India"
+      },
+      {
+        "_id": 6,
+        "city_name": "Chennai",
+        "city": 6,
+        "country_name": "India"
+      },
+      {
+        "_id": 7,
+        "city_name": "Gurgaon",
+        "city": 7,
+        "country_name": "India"
+      },
+      {
+        "_id": 8,
+        "city_name": "Hyderabad",
+        "city": 8,
+        "country_name": "India"
+      },
+      {
+        "_id": 9,
+        "city_name": "Kolkata",
+        "city": 9,
+        "country_name": "India"
+      },
+      {
+        "_id": 10,
+        "city_name": "Lucknow",
+        "city": 10,
+        "country_name": "India"
+      },
+      {
+        "_id": 11,
+        "city_name": "Noida",
+        "city": 11,
+        "country_name": "India"
+      }
+    ],
+    "showrooms": [
+      {
+        "_id": 1,
+        "name": "Silver Arrow Automobiles",
+        "city_name": "New Delhi",
+        "city": "1",
+        "thumb": "https://i.ibb.co/TbVsznT/sarovar.jpg",
+        "address": "50 – B, The Ashok Hotel, Chanakyapuri, Diplomatic Enclave, New Delhi, Delhi 110021"
+      },
+      {
+        "_id": 2,
+        "name": "T & T Motors",
+        "city_name": "New Delhi",
+        "city": "1",
+        "thumb": "https://i.ibb.co/TbVsznT/sarovar.jpg",
+        "address": "C-4, Rajouri Garden, Near Ramdhan Mohanlal & Co. Pvt. Ltd, New Delhi, Delhi 110027 info.wd@tandtmotorsindia.com"
+      },
+      {
+        "_id": 3,
+        "name": "T & T Motors",
+        "city_name": "New Delhi",
+        "city": "1",
+        "thumb": "https://i.ibb.co/TbVsznT/sarovar.jpg",
+        "address": "Ga-2,block B-1, Mathura Road, Mohan Cooperative Industrial Estate, Near Excel Motors, New Delhi Delhi 110044 info@tandtmotorsindia.com"
+      },
+      {
+        "_id": 4,
+        "name": "Global Star",
+        "city_name": "New Delhi",
+        "city": "1",
+        "thumb": "https://i.ibb.co/TbVsznT/sarovar.jpg",
+        "address": "Global Star Green Park, A-3, New Delhi, Delhi 110016"
+      },
+      {
+        "_id": 5,
+        "name": "Silver Star",
+        "city_name": "Pune",
+        "city": "3",
+        "thumb": "https://i.ibb.co/6FLGh3D/Syaji.jpg",
+        "address": " S. NO. 15, PLOT NO. 1, KALYANI NAGAR, SUPPORT SERVICE BUILDING,SUPPORT SERVICE BUILDING, Pune, Maharashtra 411014 sales.pune@silver-star.co.in"
+      },
+      {
+        "_id": 6,
+        "name": "B U Bhandari Motors",
+        "city_name": "Pune",
+        "city": "3",
+        "thumb": "https://i.ibb.co/6FLGh3D/Syaji.jpg",
+        "address": "101, 102, Baner, Mumbai-bangalore Highway, Pune, Maharashtra 411045 Salescre@bubhandari.in"
+      },
+      {
+        "_id": 7,
+        "name": "B U Bhandari Motors",
+        "city_name": "Pune",
+        "city": "3",
+        "thumb": "https://i.ibb.co/6FLGh3D/Syaji.jpg",
+        "address": "Bund Garden Road, Godrej Castlemaine, Near Ruby Hall Clinic, Pune, Maharashtra 411001 mercedes@bubhandari.in"
+      },
+      {
+        "_id": 8,
+        "name": "Landmark Cars",
+        "city_name": "mumbai",
+        "city": "2",
+        "thumb": "https://i.ibb.co/p3Dhc3q/trident.jpg",
+        "address": " Shop No. 1, Blue Empress, Boraspada road, Desai Wadi, Kandivali West, Opp Poisar Gymkhana, Mumbai, Maharashtra 400092 crm@landmarkcars.in"
+      },
+      {
+        "_id": 9,
+        "name": "Auto Hangar",
+        "city_name": "mumbai",
+        "city": "2",
+        "thumb": "https://i.ibb.co/p3Dhc3q/trident.jpg",
+        "address": "Ground floor, Rajan House, Prabhadevi, Appasaheb Marathe Marg, Mumbai, Maharashtra 400025 customerconnect@autohangar.com"
+      },
+      {
+        "_id": 10,
+        "name": "Auto Hangar",
+        "city_name": "mumbai",
+        "city": "2",
+        "thumb": "https://i.ibb.co/p3Dhc3q/trident.jpg",
+        "address": " Ground Floor, Aston Building, Shastri Nagar, Near Lokhandwala Circle, Mumbai, Maharashtra 400053 customerconnect@autohangar.com"
+      },
+      {
+        "_id": 11,
+        "name": "Shaman Wheels",
+        "city_name": "mumbai",
+        "city": "2",
+        "thumb": "https://i.ibb.co/p3Dhc3q/trident.jpg",
+        "address": " 178 Cst Road, kalina,santacruz, Metro Estate, Mumbai, Maharashtra 400098 sales@teamshaman.com"
+      },
+      {
+        "_id": 12,
+        "name": "Metro Motors",
+        "city_name": "mumbai",
+        "city": "2",
+        "thumb": "https://i.ibb.co/p3Dhc3q/trident.jpg",
+        "address": " Ground Floor, 66, Motor House, Charni Road, Sitaram Patkar Marg, Mumbai, Maharashtra 400007"
+      },
+      {
+        "_id": 13,
+        "name": "Shaman Wheels",
+        "city_name": "mumbai",
+        "city": "2",
+        "thumb": "https://i.ibb.co/p3Dhc3q/trident.jpg",
+        "address": " Oriental Bldg 7, C/o Bombay Cycle & Motor Agency Ltd, Next to RITZ Hotel, Jamshedji Tata Road , Mumbai, Maharashtra 400020"
+      },
+      {
+        "_id": 14,
+        "name": "Shaman Wheels",
+        "city_name": "mumbai",
+        "city": "2",
+        "thumb": "https://i.ibb.co/p3Dhc3q/trident.jpg",
+        "address": " Plot number 11, Goregaon (East), Remi House, Near HUB mall, Walbat Road, Mumbai, Maharashtra 400063 service.goregaon@teamshaman.com"
+      },
+      {
+        "_id": 15,
+        "name": "Akshaya Motors",
+        "city_name": "banglore",
+        "city": "4",
+        "thumb": "https://i.ibb.co/6FLGh3D/Syaji.jpg",
+        "address": " Survey no 77/1, Mysore Road, Valagerehalli Village, Opp. Rv College Of Engineering, Bangalore, Karnataka 560059 sales@akshayabenz.com 080-22966300"
+      },
+      {
+        "_id": 16,
+        "name": "Akshaya Motors",
+        "city_name": "banglore",
+        "city": "4",
+        "thumb": "https://i.ibb.co/6FLGh3D/Syaji.jpg",
+        "address": "107/3, 80 Feet Road, Koramangala 4th Block, Duvasapalya, Bangalore, Karnataka 560059 sales@akshayabenz.com"
+      },
+      {
+        "_id": 17,
+        "name": "Sundaram Motors",
+        "city_name": "banglore",
+        "city": "4",
+        "thumb": "https://i.ibb.co/6FLGh3D/Syaji.jpg",
+        "address": "Kasturba Road, 107, Bangalore, Karnataka 560001 salesmgr@sundarammotors.com, saleshostessblr@sundarammotors.com"
+      },
+      {
+        "_id": 18,
+        "name": "Benchmark Cars",
+        "city_name": "Ahmedabad",
+        "city": "5",
+        "thumb": "https://i.ibb.co/6FLGh3D/Syaji.jpg",
+        "address": "S.G. Road Sola, Sun Court, Near Sola Flyover, Ahmedabad, Gujarat 380063 sunoj.t@mb-benchmarkcars.in, tl.ivrs@mb-benchmarkcars.in 7375006612"
+      },
+      {
+        "_id": 19,
+        "name": "Landmark Cars",
+        "city_name": "Ahmedabad",
+        "city": "5",
+        "thumb": "https://i.ibb.co/6FLGh3D/Syaji.jpg",
+        "address": "Survey No. 390 / 353 P, Bus Stand, Near Ambli BRTS, Ahmedabad, Gujarat 380058 7375006609"
+      },
+      {
+        "_id": 20,
+        "name": "Emerald Motors",
+        "city_name": "Ahmedabad",
+        "city": "5",
+        "thumb": "https://i.ibb.co/6FLGh3D/Syaji.jpg",
+        "address": "Plot no. 4, Shantisadan Society, C G Road, Nr. Parimal Garden, Ahmedabad, Gujarat 380006 receptionmb@emeraldmercedes.com"
+      },
+      {
+        "_id": 21,
+        "name": "Sundaram Motors",
+        "city_name": "Chennai",
+        "city": "6",
+        "thumb": "https://i.ibb.co/6FLGh3D/Syaji.jpg",
+        "address": "80/81, Chennai, Ambattur Industrial Estate, Chennai, Tamil Nadu 600058"
+      },
+      {
+        "_id": 22,
+        "name": "Titanium Motors",
+        "city_name": "Chennai",
+        "city": "6",
+        "thumb": "https://i.ibb.co/6FLGh3D/Syaji.jpg",
+        "address": "148 k, Old mahabalipuram road, Thoraipakka, Post Office Street, Seevaram okkiyam, Chennai, Tamil Nadu 600096chennaisales@titaniummotors.in 7375006197"
+      },
+      {
+        "_id": 23,
+        "name": "V.s.t Titanium Motors",
+        "city_name": "Chennai",
+        "city": "6",
+        "thumb": "https://i.ibb.co/6FLGh3D/Syaji.jpg",
+        "address": "199, Triplicane, Anna Salai, Mount Road, Express Estate, Chennai, Tamil Nadu 600002 7375006393"
+      },
+      {
+        "_id": 24,
+        "name": "V.s.t Titanium Motors",
+        "city_name": "Chennai",
+        "city": "6",
+        "thumb": "https://i.ibb.co/6FLGh3D/Syaji.jpg",
+        "address": "115, Perungudi, Estate Main Road Industrial Estate, Chennai, Tamil Nadu 600096 7375006198"
+      },
+      {
+        "_id": 25,
+        "name": "T & T Motors",
+        "city_name": "Gurgaon",
+        "city": "7",
+        "thumb": "https://i.ibb.co/6FLGh3D/Syaji.jpg",
+        "address": "G1 & G2, Golf Course Road, Global Foyer,sector 43, Global Foyer, Gurgaon, Haryana 122002 info.gurgaon@tandtmotorsindia.com"
+      },
+      {
+        "_id": 26,
+        "name": "Silver Star",
+        "city_name": "Hyderabad",
+        "city": "8",
+        "thumb": "https://i.ibb.co/6FLGh3D/Syaji.jpg",
+        "address": "Banjara Hills, Main Rd, Khairatabad, Hill Top Colony, Hyderabad, Telangana 500082 asim.ali@silver-star.co.in"
+      },
+      {
+        "_id": 27,
+        "name": "Adishwar Auto",
+        "city_name": "Hyderabad",
+        "city": "8",
+        "thumb": "https://i.ibb.co/6FLGh3D/Syaji.jpg",
+        "address": " Plot No 47 & 48, Mahavir Motors,mb Tower, Madhapur, Kavuri Hills, Hyderabad, Telangana 500013 sales.crm@mahavirmotors.com"
+      },
+      {
+        "_id": 28,
+        "name": "Landmark Cars",
+        "city_name": "Kolkata",
+        "city": "9",
+        "thumb": "https://i.ibb.co/6FLGh3D/Syaji.jpg",
+        "address": "Ground Floor, 10 East Topsia Road, Ideal Unique Centre, Kolkata, West Bengal 700046 info@mb-benchmarkcars.in"
+      },
+      {
+        "_id": 29,
+        "name": "Landmark Cars",
+        "city_name": "Kolkata",
+        "city": "9",
+        "thumb": "https://i.ibb.co/6FLGh3D/Syaji.jpg",
+        "address": "B4 / B3, Upen Banerjee Road, Behala Pamasree, RIC Behala Industrial Estate, Kolkata, West Bengal 700060."
+      },
+      {
+        "_id": 30,
+        "name": "Benchmark Cars",
+        "city_name": "Kolkata",
+        "city": "9",
+        "thumb": "https://i.ibb.co/6FLGh3D/Syaji.jpg",
+        "address": "31, Dr Ambedkar Sarani,topsia, Opp. of Vishwakarma Building, Kolkata, West Bengal 700046 sumit.kumar@mb-benchmarkcars.in, info@mb-benchmarkcars.in"
+      },
+      {
+        "_id": 31,
+        "name": "Srm Smart Hoops",
+        "city_name": "Lucknow",
+        "city": "10",
+        "thumb": "https://i.ibb.co/6FLGh3D/Syaji.jpg",
+        "address": "KN – 137 Uttar Dhauna, Faizabad Road, Tiwari Ganj, Lucknow, Uttar Pradesh 227105"
+      },
+      {
+        "_id": 32,
+        "name": "Srm Star",
+        "city_name": "Lucknow",
+        "city": "10",
+        "thumb": "https://i.ibb.co/6FLGh3D/Syaji.jpg",
+        "address": "KN 353, Faizabad Road, Uttardhauna,tiwari Ganj, Near Ram Swaroop College, Lucknow, Uttar Pradesh 226002 info@srmstar.in"
+      },
+      {
+        "_id": 33,
+        "name": "Silver Arrows",
+        "city_name": "Noida",
+        "city": "11",
+        "thumb": "https://i.ibb.co/6FLGh3D/Syaji.jpg",
+        "address": "D 7, Sector 8, Opposite Sahara Network, Noida, Uttar Pradesh 201301 info@silverarrows.in"
+      }
+    ]
+  }
+  
